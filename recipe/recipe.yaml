@@ -1,5 +1,5 @@
 context:
-  version: "3.1.10"
+  version: "3.1.11"
 
 package:
   name: nodemon
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/nodemon/-/nodemon-${{ version }}.tgz
-  sha256: 65de56af164063282f3c08fc683a978f7e9044fad91794d2473d8f72ff085a0d
+  sha256: bb9f15eb4ca82a698161a396bc0bcb1e345ea56d6d226e5780c4bc52be2af0f3
 
 build:
   number: 0
